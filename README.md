@@ -1,2 +1,2 @@
 # CalculoIE
-Projeto de calculo de IE
+Projeto de calculo de Incrição Estadual
